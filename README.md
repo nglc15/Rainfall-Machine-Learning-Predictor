@@ -1,6 +1,6 @@
 # Rainfall-Machine-Learning-Predictor
 
-This repository is for UCI's CS178 Machine Learning and Data final project. 
+This repository is for UCI's CS178 Machine Learning and Data final project with Vishaal Yalamanchali.
 
 This project uses classifiers for an in-class Kaggle prediction competition with data from satellite-based measurements of cloud temperature.
 
